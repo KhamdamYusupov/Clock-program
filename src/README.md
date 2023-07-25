@@ -1,0 +1,1 @@
+this is simple clock program made using Java
